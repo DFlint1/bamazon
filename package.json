@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DFlint1/bamazon.git"
+  },
+  "author": "Dana Flint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DFlint1/bamazon/issues"
+  },
+  "homepage": "https://github.com/DFlint1/bamazon#readme"
+}
